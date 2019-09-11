@@ -1,0 +1,4 @@
+[submodule "ksolves-store/web_listview_sticky_header"]
+	path = ksolves-store/web_listview_sticky_header
+	url = git@github.com:ksolves-store/web_listview_sticky_header.git
+	branch = 12.0
